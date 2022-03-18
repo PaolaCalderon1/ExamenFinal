@@ -1,6 +1,6 @@
 # ExamenFinal
 Examen final de bioinformatica sobre R
-* Paola Fernanda Calderón Oñate
+* Nombre: Paola Fernanda Calderón Oñate
 ## Caracteristicas del computador
 * Nombre del computador: LAPTOP-B8AUT6P2, modelo Lenovo 
 * Procesador: AMD A12-9720P RADEON R7, 12 COMPUTE CORES 4C+8G   2.70 GHz
