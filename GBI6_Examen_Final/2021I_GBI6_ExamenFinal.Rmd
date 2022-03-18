@@ -27,7 +27,7 @@ Los contenidos de esta evaluación corresponden a los temas de R revisados en el
 
 -   Estructuras de control.
 
--   Funciones
+-   Funciones.
 
 -   Manipulación de datos
 
