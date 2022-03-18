@@ -2,7 +2,7 @@
 title: "GBI6 - BIOINFORMÁTICA"
 subtitle: "EXAMEN FINAL"
 author: 'Calderon Paola'
-date: "`r Sys.Date()`"
+date: "`17/03/2022`"
 output:
   html_document:
     highlight: espresso
