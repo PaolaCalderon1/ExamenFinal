@@ -31,7 +31,7 @@ Los contenidos de esta evaluación corresponden a los temas de R revisados en el
 
 -   Manipulación de datos
 
--   Estadística básica
+-   Estadística básica.
 
 -   Visualización de datos
 
