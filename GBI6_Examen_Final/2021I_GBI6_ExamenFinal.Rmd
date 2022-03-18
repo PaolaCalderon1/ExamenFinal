@@ -29,7 +29,7 @@ Los contenidos de esta evaluación corresponden a los temas de R revisados en el
 
 -   Funciones.
 
--   Manipulación de datos
+-   Manipulación de datos.
 
 -   Estadística básica.
 
