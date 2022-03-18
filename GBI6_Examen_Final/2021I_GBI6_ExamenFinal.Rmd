@@ -33,7 +33,7 @@ Los contenidos de esta evaluación corresponden a los temas de R revisados en el
 
 -   Estadística básica.
 
--   Visualización de datos
+-   Visualización de datos.
 
 # INDICACIONES GENERALES
 
