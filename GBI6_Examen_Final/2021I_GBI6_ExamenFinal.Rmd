@@ -25,7 +25,7 @@ Los contenidos de esta evaluación corresponden a los temas de R revisados en el
 
 -   Instalación y uso de librerías. 
 
--   Estructuras de control
+-   Estructuras de control.
 
 -   Funciones
 
