@@ -23,7 +23,7 @@ Los contenidos de esta evaluación corresponden a los temas de R revisados en el
 
 -   Tipos de datos
 
--   Instalación y uso de librerías. 
+-   Instalación y uso de librerías
 
 -   Estructuras de control.
 
