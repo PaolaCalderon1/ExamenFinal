@@ -13,4 +13,4 @@ Examen final de bioinformatica sobre R
 * Git bash 
 * R
 ## Descripcion de la data usada
-* Se uso un archivo tipo csv con informacion sobre genes que se manifiesta en el cancer 
+* Se uso un archivo tipo csv con informacion sobre genes que se manifiesta en el cancer y con esos datos se generaron graficas para la compresion de los datos 
