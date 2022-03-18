@@ -21,7 +21,7 @@ output:
 
 Los contenidos de esta evaluación corresponden a los temas de R revisados en el curso:
 
--   Tipos de datos.
+-   Tipos de datos
 
 -   Instalación y uso de librerías. 
 
