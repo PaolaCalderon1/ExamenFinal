@@ -59,7 +59,7 @@ Ustedes estan utilizando el R Markdown. Las instruciones son:
 
 -   Genere controles de la versión para cada una de las preguntas con la leyenda "Nombre Apellido, resuelve el ejercicio XX". 
 
-- Copie y peque la dirección de su repositorio de GitHub en la actividad **"ExamenFinal"**.
+- Copie y peque la dirección de su repositorio de GitHub en la actividad **"ExamenFinal"**..
 
 -   Asegúrese de responder explícitamente cada una de las preguntas.
 
